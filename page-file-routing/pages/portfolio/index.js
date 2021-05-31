@@ -1,7 +1,7 @@
 export default function Portfolio() {
   return (
     <div>
-      <h1>This is Portfolio Page</h1>
+      <h1>The Portfolio Page</h1>
     </div>
   );
 }
